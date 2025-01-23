@@ -1,7 +1,8 @@
 # Construction Project Management System in Taiwan 🏗️
 
-## Overview
-A comprehensive construction project management system that implements CPM (Critical Path Method) and PERT (Program Evaluation and Review Technique) analysis for a 174-day construction project. The system helps optimize scheduling, resource allocation, and risk management.
+A comprehensive construction project management system that implements CPM (Critical Path Method) and PERT (Program Evaluation and Review Technique) analysis for a 174-day construction project. The system helps optimize scheduling, resource allocation, and risk management.<br>
+<br>
+（清大工工所｜專案管理｜期末專案）
 
 ## Features
 - **Critical Path Analysis (CPM)**
